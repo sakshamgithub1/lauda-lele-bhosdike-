@@ -23,7 +23,7 @@ int main()
     {
         if (++it == m.end())
             break;
-        it--;
+        it++
         string s1=((*it).first).first;
         string s2=((*it).first).second;
         for(it2=it;it2!=m.end();it2++)
