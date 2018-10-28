@@ -11,6 +11,6 @@ int main(){
   for (int i = 1; i <= n; i++) {
     cout << i << " chut " << n - i << " lund\n";
   }
-
+cout <<x << endl;
   return 0;
 }
